@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>119EF430-948C-4AE8-A778-7722A0E8F4F0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Genen</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>00E3943CFC95F323660EA6134F093E26A59010DA</key>
+		<string>github.com:kenjiszk/Genen.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Genen.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>00E3943CFC95F323660EA6134F093E26A59010DA</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:kenjiszk/Genen.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>00E3943CFC95F323660EA6134F093E26A59010DA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>00E3943CFC95F323660EA6134F093E26A59010DA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Genen</string>
+		</dict>
+	</array>
+</dict>
+</plist>
